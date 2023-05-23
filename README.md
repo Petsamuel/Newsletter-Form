@@ -1,1 +1,1 @@
-��# simple new letter form 
+## Simple newsletter form 
